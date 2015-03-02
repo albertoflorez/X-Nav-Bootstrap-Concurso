@@ -1,0 +1,90 @@
+body {
+    padding-top: 50px;
+    background-color: #dbdbdb;
+    font-size: 18px;  
+}
+
+.manos{
+    width:100%;
+    height:250px;
+}
+
+.justificar{
+    text-align : justify;
+}
+
+
+#aboutUs{
+    height: 350px;
+}
+
+.jumbotron{
+    margin-bottom:0;    
+}
+
+.row {
+    margin-top:50px;
+}
+
+#members{
+    background: url(../images/miembros.jpg) 100%;
+}
+
+#drScratch{
+    width:88%;
+    height:88%;
+}
+
+#gymkhana{
+    width:75%;
+    height:75%;
+}
+
+.translations{
+    color:gray;
+}
+
+#myCarousel2{ 
+    background: url(../images/proyectos.jpg) 100%;
+}
+
+#eMadrid{
+    width:25%;
+    height:25%;
+}
+
+#fecyt{
+    width:10%;
+    height:10%;
+}
+
+#awards{
+    background-color: white;
+    text-align : justify;
+}
+
+#googleRiseAwards{
+    width:30%;
+    height:30%;
+}
+
+.titulo{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 70px;
+}
+
+.separa{
+    margin-top:50px;
+}
+
+.letra1{
+    color:red;
+}
+
+.letra2{
+    color:green;
+}
+
+.letra3{
+    color:blue;
+}
