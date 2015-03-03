@@ -106,8 +106,7 @@
                     <span class="pull-right "><i class="glyphicon glyphicon-minus"></i></span>
                 </div>
                 <div class="panel-body">
-                    Es una plataforma web permite subir programas de Scratch, un lenguaje de programación visual orientado al aprendizaje de técnicas de programación para niños, para ser evaluados, de manera que el alumno recibirá realimentación sobre la calidad del programa, cómo mejorarlo y una evaluación global de sus capacidades de programación. La plataforma incluye técnicas de ludificación (gamification), de manera que el alumno puede ganar medallas y desarrollar sus habilidades de programación y alcanzar niveles de mayor complejidad y calidad. Dentro del proyecto se realizarán actividades específicamente orientadas al fomento de la programación colectivos desfavorecidos y discapacitados. 
-                    <p><a href="http://drscratch.programamos.es/">¡Pulsa aquí para saber más!</a></p>
+                    Es una plataforma web permite subir programas de Scratch, un lenguaje de programación visual orientado al aprendizaje de técnicas de programación para niños, para ser evaluados, de manera que el alumno recibirá realimentación sobre la calidad del programa, cómo mejorarlo y una evaluación global de sus capacidades de programación. La plataforma incluye técnicas de ludificación (gamification), de manera que el alumno puede ganar medallas y desarrollar sus habilidades de programación y alcanzar niveles de mayor complejidad y calidad. Dentro del proyecto se realizarán actividades específicamente orientadas al fomento de la programación colectivos desfavorecidos y discapacitados. <p><a href="http://drscratch.programamos.es/">¡Pulsa aquí para saber más!</a></p>
                 </div>
             </div>
         </div>
@@ -120,9 +119,9 @@
                     <span class="pull-right "><i class="glyphicon glyphicon-minus"></i></span>
                 </div>
                 <div class="panel-body">
-                    Es un juego educativo de código abierto, que funciona con geolocalización relacionados con aprendizaje máquina y aplicaciones de turismo. Se basa en la aplicación "LibreGeoSocial mobile social network", que incluye una interfaz de realidad aumentada móvil . Puede organizar y gestionar una gymkana móvil utilizando smartphones Android ( gymkhanas de nueva generación) y sin gran esfuerzo.
+                    <p>Es un juego educativo de código abierto, que funciona con geolocalización relacionados con aprendizaje máquina y aplicaciones de turismo. Se basa en la aplicación "LibreGeoSocial mobile social network", que incluye una interfaz de realidad aumentada móvil . Puede organizar y gestionar una gymkana móvil utilizando smartphones Android ( gymkhanas de nueva generación) y sin gran esfuerzo.</p>
                     <p class="translations"><a href="http://gymkhana.libresoft.es/">¡Pulsa aquí para saber más!</a></p>
-                    Is an open source educational and geolocated game related to M-Learning & Tourism applications. It is based on the LibreGeoSocial mobile social network application, which includes a mobile augmented reality interface. You can organize and manage a mobile gymkana using Android smartphones (new generation gymkhanas) without great effort.
+                    <p>Is an open source educational and geolocated game related to M-Learning & Tourism applications. It is based on the LibreGeoSocial mobile social network application, which includes a mobile augmented reality interface. You can organize and manage a mobile gymkana using Android smartphones (new generation gymkhanas) without great effort.</p>
                     <p><a href="http://gymkhana.libresoft.es/">Click here to learn more!</a></p>
                 </div>
             </div>

@@ -47,7 +47,7 @@ body {
 
 #premios{
 	padding:8px;
-	border:3px solid #592800;
+	border:2px solid #592800;
 	background-color: #592800;
 	margin-bottom: 30px;
 	border-radius: 10px;
